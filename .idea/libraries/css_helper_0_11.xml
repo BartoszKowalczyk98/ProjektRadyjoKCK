@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="css-helper-0.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/css-helper-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
